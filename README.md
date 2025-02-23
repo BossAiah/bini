@@ -1,1 +1,3 @@
-BINI IPTV is created for access to philippine tv
+BINI IPTV
+
+Bini Aiah Choice of Channels
