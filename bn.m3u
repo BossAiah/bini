@@ -11,3 +11,5 @@ http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01583
 http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00708&q=SD&apikey=7IORE53M3M
 #EXTINF:-1, TV CHOSUN_Backup4
 http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01581&q=SD&apikey=7IORE53M3M
+#EXTINF:-1, CCTN 47 (1080p) [Not 24/7]
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
