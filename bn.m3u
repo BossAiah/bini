@@ -13,3 +13,438 @@ http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00708
 http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01581&q=SD&apikey=7IORE53M3M
 #EXTINF:-1, CCTN 47 (1080p) [Not 24/7]
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:-1 group-title="General",YTN2
+https://m.youtube.com/watch?v=hxBTqmTT5gE
+
+
+#EXTINF:-1 group-title="General",CJB
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="General",TJB
+http://1.245.74.5:1935/live/tv/.m3u8
+
+
+#EXTINF:-1 group-title="General",KBC TV
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="General",EBS 1
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="General",EBS Plus 1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="General",EBS 2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="General",EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="General",EBS Plus 2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="General",EBS Plus 3
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="General",KTV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="General",ABN HD
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+
+#EXTINF:-1 group-title="General",JIBS
+http://123.140.197.22/stream/1/play.m3u8
+
+
+
+
+#EXTINF:-1 group-title="General",Arirang TV Korea (Outpt-2)
+https://m.youtube.com/watch?v=CJVBX7KI5nU
+
+
+
+
+#EXTINF:-1 group-title="General",KoreaNet
+https://m.youtube.com/@GatewayToKorea/live
+
+
+
+
+#EXTINF:-1 group-title="General",All The K-POP
+https://youtube.com/@allthekpop/live
+
+
+
+
+#EXTINF:-1 group-title="General",KBS Korea
+https://youtube.com/@kbsworldtv/live
+
+#EXTINF:-1 group-title="General",KBS 1
+http://mytv.dothome.co.kr/ch/public/1.php
+
+#EXTINF:-1 group-title="General",KBS 2
+http://mytv.dothome.co.kr/ch/public/3.php
+
+#EXTINF:-1 group-title="General",KBS Drama
+http://mytv.dothome.co.kr/ch/catv/2.php
+
+#EXTINF:-1 group-title="General",KBS Joy
+http://mytv.dothome.co.kr/ch/catv/3.php
+
+#EXTINF:-1 group-title="General",KBS Life
+http://mytv.dothome.co.kr/ch/catv/5.php
+
+#EXTINF:-1 group-title="General",KBS Story
+http://mytv.dothome.co.kr/ch/catv/4.php
+
+#EXTINF:-1 group-title="General",KBS Kids
+http://mytv.dothome.co.kr/ch/catv/6.php
+
+
+
+
+#EXTINF:-1 group-title="General",YTNSC
+https://m.youtube.com/watch?v=xfFa_kcPnCY
+
+
+
+
+#EXTINF:-1 group-title="General",Bloomberg+
+https://youtube.com/@markets/live
+
+
+
+
+#EXTINF:-1 group-title="General",ABC News
+https://youtube.com/@ABCNews/live
+#EXTINF:-1 group-title="General",NBC News
+https://m.youtube.com/@nbcnews/live
+
+#EXTINF:-1 group-title="General",GB News
+https://m.youtube.com/watch?v=8WX6YL9JnLw&pp=ygUHR2IgbmV3cw%3D%3D
+
+
+#EXTINF:-1 group-title="General",People's Television (PTV)
+https://m.youtube.com/@ptvph/live
+#EXTINF:-1 group-title="General", EuroNews
+https://m.youtube.com/watch?v=pykpO5kQJ98
+
+
+#EXTINF:-1 group-title="General",CNA
+https://youtube.com/@channelnewsasia/live
+
+
+
+
+#EXTINF:-1 group-title="General",ABC News Australia
+https://youtube.com/@abcnewsaustralia/live
+
+
+
+
+#EXTINF:-1 group-title="General",France 24
+https://youtube.com/@FRANCE24/live
+
+
+
+
+#EXTINF:-1 group-title="General",USA Today (Outpt-2)
+https://youtube.com/@USATODAY/live
+
+
+
+
+#EXTINF:-1 group-title="General",UNTV
+https://youtube.com/@UNTVNewsandRescue/live
+#EXTINF:-1 group-title="General",UNTV (Outpt-2)
+https://m.youtube.com/watch?v=wCIj9s2yovw
+
+
+
+#EXTINF:-1 group-title="General",Al Jazeera
+https://youtube.com/@aljazeeraenglish/live
+
+
+
+
+#EXTINF:-1 group-title="General",DW News
+https://youtube.com/@dwnews/live
+#EXTINF:-1 group-title="General",LiveNow From FOX
+https://m.youtube.com/watch?v=YDfiTGGPYCk
+
+
+
+
+#EXTINF:-1 group-title="General",Kapamilya Online Live
+https://youtube.com/@abscbnentertainment/live
+
+
+
+
+#EXTINF:-1 group-title="General",GMA Network
+https://youtube.com/@gmanetwork/live
+
+
+
+
+#EXTINF:-1 group-title="General",The KPOP
+https://youtube.com/@thekpop/live
+
+
+
+
+#EXTINF:-1 group-title="General",Arirang Radio
+https://youtube.com/@Music180Arirang/live
+
+
+
+
+#EXTINF:-1 group-title="General", Christian Broadcasting Network (CBN)
+https://youtube.com/@cbnnewsonline/live
+
+
+
+
+#EXTINF:-1 group-title="General",Sky News
+https://www.youtube.com/watch?v=YDvsBbKfLPA
+#EXTINF:-1 group-title="General",DeFiance Media
+https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="General",Lotus Macau
+https://cdn4.skygo.mn/live/disk1/Lotus/DASH-FTA/Lotus.mpd
+#EXTINF:-1 group-title="General",Bloomberg TV
+https://cdn4.skygo.mn/live/disk1/Bloomberg/DASH-FTA/Bloomberg.mpd
+#EXTINF:-1 group-title="General",Bloomberg TV+
+https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="General" , Bloomberg Television (Outpt-5)
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 group-title="General",Bloomberg Television Asia Live Event(Opt-4)
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 group-title="General",Bloomberg Television(Opt-3)
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 group-title="General",Bloomberg Television(Opt-2)
+http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1 group-title="General",Bloomberg Quicktake
+https://www.bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF:-1 group-title="General",Bloomberg Podcasts
+https://www.youtube.com/@bloombergpodcasts/live
+#EXTINF:-1 group-title="General",Hallmark Drama
+https://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 group-title="General",TNT
+http://fl2.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 group-title="General",TV One
+http://fl2.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 group-title="General",Hallmark Channel
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="General",USA Network
+http://fl2.moveonjoy.com/USA_Network/index.m3u8
+#EXTINF:-1 group-title="General",Yahoo! Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="General",Yahoo! Finance (Outpt-2)
+https://www.youtube.com/@yahoofinance/live
+#EXTINF:-1 group-title="General", Schwab Network
+https://www.youtube.com/@schwabnetwork/live
+#EXTINF:-1 group-title="General", Fox News Channel 
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/267.m3u8
+
+#EXTINF:-1 group-title="General", CNN International 
+http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+
+#EXTINF:-1 group-title="General", C-SPAN
+http://fl2.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 group-title="General",CNBC(Outpt-1)
+https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8
+#EXTINF:-1 group-title="General",CNBC(Outpt-2)
+https://fl2.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 group-title="General",FXM
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 group-title="General",Asiancrush
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="General",Cooking Channel
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="General",ABC Australia
+https://bit.ly/3YHKTzR
+#EXTINF:-1 group-title="General",France 24
+https://bit.ly/3YJ4CPG
+#EXTINF:-1 group-title="General",Fight Sports
+https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8
+#EXTINF:-1 group-title="General",Asian Food Network
+https://ln.run/7rN1n
+#EXTINF:-1 group-title="General",SYFY
+https://fl5.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 group-title="General",Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 group-title="General",Scientology Channel
+https://stream6.scientology.org/master.m3u8
+#EXTINF:-1 group-title="General",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="General",Fish TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wired2fish/playlist.m3u8
+#EXTINF:-1 group-title="General",Cebu Catholic Television Network 47 (CCTN 47)
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:-1 group-title="General",Veritas846
+https://ythls.armelin.one/channel/UCAzUdEY3ZqtcC_s4ZdDKm7Q.m3u8
+#EXTINF:-1 group-title="General",SuperRadyo DZBB
+https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="General",Wish 107.5
+https://radio.wish1075.com/web/stream/wish.m3u8
+
+#EXTINF:-1 group-title="General",Food Network (US)
+http://38.96.178.201/live/FoodNetwork/index.m3u8
+#EXTINF:-1 group-title="General",TV Maria
+https://ythls.armelin.one/channel/UCDXPB23ws_T0rVvrXVCYqyA.m3u8
+#EXTINF:-1 group-title="General",K+ Entertainment
+https://bit.ly/3YJLn8P
+#EXTINF:-1 group-title="General",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 group-title="General",TV5 Monde Asie
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTINF:-1 group-title="General",TV5 Monde Pacifique
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+#EXTINF:-1 group-title="General",The AccuWeather Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1 group-title="General",The Weather Channel
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="General",SkyNews
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:-1 group-title="General",GB News 🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁳󠁣󠁴󠁿
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="General",The Guardian
+https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8
+#EXTINF:-1 group-title="General",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="General",United Nations 🇺🇳 Web TV
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 group-title="General",Wild Planet
+https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
+#EXTINF:-1 group-title="General",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="General",NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="General",NHK World Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 group-title="General", Warner TV
+https://cdn4.skygo.mn/live/disk1/Warner/DASH-FTA/Warner.mpd
+#EXTINF:-1 tvg-id="TeleRadyo Serbisyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png" group-title="General", TeleRadyo Serbisyo
+https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="General",BBC World News
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-id="CGTN News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png" group-title="General" , CGTN News
+https://m.youtube.com/watch?v=pd3CgRzcQdA
+#EXTINF:-1 tvg-id="CGTN Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/CGTN_Documentary.svg" group-title="General" , CGTN Documentary
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+#EXTINF:-1 tvg-id=BEIN SPORTS EXTRA"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="General" , Bein Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="General",Wellbeing TV
+https://amg01255-secomcofites-my-myzen-en-plex-dj4yp.amagi.tv/playlist/amg01255-secomcofites-my-myzen-en-plex/cb553d167b6c64879ad43d66d4ef42a2da243dfc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505d6cdb62c76c70879e26fd36612e6c2dde87b778de87110fa2c074524ece060241a2574e85352477dae21541c51ebd6b0a1eed463f0563c3ed47ad6852d5fd55d92675debdbe306f2c180680585ee2be5da5edf55a10d86da2e51f4d887d47e2875fc8d549ed9ddc589a479b23a4109997f58b8243d1839301036688416180f07ae3e249bb8b3686d29365308c6121481b4694ccf99c6f0ff68cc7c19a85af9e76f612b4e54d62dd3ec966b94b88318565e873cf1ba60bcec9bd121643cbe75e6f33b2e4accacd3c20bc7ffab1aba61b9b13fe661b64ec4fa2521b2a9febc21a87c65599b063a6b16b0872a6fb21cdcde2d3bdf1e54eede71e906c3ab9066e1a56844818260d53fb63b659bbc7126e714c4aa49654fe64b8343f4f409c8952d81254ec95dbc3972232c4750301a841d75f1763c5302c2db576b9b1752ca8361a89300afe5a1e8956b3ed7fa2e988b346739ef6f36fd323afb903d9f3428e683f520dfab20f57574370d5a1375e6137930bb49d9aa15a0602e5fbc8bef3523e062b1e1d59d8b5a923cdfcad437a37cf57346f7d1465f4558613bf0a2a517d9a06b24c68f808a7fb4be2c8e5697e8d07373773b975ff5ca1d5/133/640x360_1020800/index.m3u8
+#EXTINF:-1 group-title="General",RT
+https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_360p/chunklist_DVR.m3u8
+#EXTINF:-1 group-title="General",RT Documentary English
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 group-title="General",Action Movies
+https://bec-action-1-us.tcl.wurl.tv/1200.m3u8
+#EXTINF:-1 group-title="General",ABS-CBN News Channel (ANC)
+https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="General",The Korean Movie Channel
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/37d2aea6-31a1-4f33-96fe-09eb7e1b7f53/0.m3u8
+
+#EXTINF:-1 tvg-id="K-Movies"  tvg-logo="https://m3u-editor.com/storage/channel-logos/bf022930-0da6-11ee-9a0d-659e025a2c6e/4897409/868539176.jpg" group-title="General", K-MOVIES
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Distro TV"  tvg-logo="https://ia903406.us.archive.org/26/items/distro-tv-logo/DistroTV-logo.png" group-title="General" , Distro TV
+https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local", S One
+https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local", Celestial Movies Pinoy (•)
+http://79.127.235.177:1234/stream/TRICKFLIX/celestialmoviespinoy/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
+
+#EXTINF:-1 tvg-logo="" group-title="Local", Jeepney TV (•)
+http://79.127.235.177:1234/stream/TRICKFLIX/jeepneytv/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
+
+#EXTINF:-1 tvg-logo="" group-title="Local", GTV
+http://hls.studentsdemo.com:8080/memfs/0f086e88-c816-4b1a-80cf-71f7334fb0c1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local", ALLTV
+http://hls.studentsdemo.com:8080/memfs/f9aa7828-ce2d-4d29-894e-99f6f2ebb03e.m3u8
+
+#EXTINF:-1 group-title="General", France 24 EN
+https://m.youtube.com/@france24_en/live
+
+#EXTINF:-1 group-title="General", NASA TV (Outpt-1)
+https://m.youtube.com/watch?v=OCem0E-0Q6Y
+
+#EXTINF:-1 group-title="General", NASA TV (Outpt-2)
+https://m.youtube.com/watch?v=wG4YaEcNlb0
+
+#EXTINF:-1 group-title="General", SpaceFlight Now 📡🛰️🚀
+https://m.youtube.com/watch?v=E1uVzfQG_Yo
+
+#EXTINF:-1 group-title="General", TRTWorld
+https://www.youtube.com/@trtworld/live
+
+#EXTINF:-1 group-title="General", NASA SpaceFlight
+https://www.youtube.com/@nasaspaceflight/live
+
+#EXTINF:-1 group-title="General", HBO (US)
+http://143.244.60.97/HBO/index.m3u8
+
+#EXTINF:-1 group-title="General", HBO Family (US)
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" group-title="General", CINEMAX (US)
+http://170.254.18.106/CINEMAX/index.m3u8
+
+#EXTINF: -1 tvg-id="COMEDY CENTRAL"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLPoGVOjX2EdR9hLszsMeiWB1ENPRQOVWfvA&usqp=CAU" group-title="General", COMEDY CENTRAL
+http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+
+#EXTINF:-1 tvg-id="CRUNCHYROLL | EN AUDIO / 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Crunchyroll.svg" group-title="General",CRUNCHYROLL
+https://bit.ly/Crunchyroll-ph
+
+#EXTINF:-1 tvg-id="HBO 2"  tvg-logo="https://ia804502.us.archive.org/33/items/logo.brootv_hbo/HBO_2.png" group-title="General", HBO 2
+http://170.254.18.106/HBO2/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://i.postimg.cc/qvnLcRqn/HBO-Family.png" group-title="General", HBO Family (U.S.A)
+http://170.254.18.106/HBO_FAMILY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://i.postimg.cc/mrfmK9J8/hbo.png" group-title="General", HBO Plus
+http://170.254.18.106/HBO_PLUS/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://i.postimg.cc/TYZQ6STM/8047802smbenknl54d1qi40m9m-320b8e1b7abb5c846e89cb9ad3ca8e39.png" group-title="General", HBO Signature
+http://170.254.18.106/HBO_SIG/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO XTREME"  tvg-logo="https://i.postimg.cc/ydQXrpLG/hboxtreme.png" group-title="General", HBO Xtreme
+http://170.254.18.106/HBO_XTREME/index.m3u8
+
+#EXTINF:-1 tvg-id="MOVIE SPHERE"  tvg-logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png" group-title="General", MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PARAMOUNT NETWORK"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" group-title="General", Paramount Network
+http://170.254.18.106/PARAMOUNT/index.m3u8
+
+#EXTINF:-1 tvg-id="Thrillers"  tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="General" , Thrillers
+https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="General", Tennis Channel 
+http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="General", FX
+http://fl2.moveonjoy.com/FX/index.m3u8
+
+#EXTINF:-1 group-title="General", FXX
+http://fl2.moveonjoy.com/FXX/index.m3u8
+
+#EXTINF:-1 group-title="General", YES Network 
+https://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="General", Hallmark Mysteries 
+https://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+
+#EXTINF:-1 group-title="General",Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="General",My Time Movies Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="General", HILAKBOT Horror Stories
+https://www.youtube.com/@HILAKBOTHorrorStories/live
