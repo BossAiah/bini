@@ -15,7 +15,7 @@ http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01581
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1 group-title="General",YTN2
 https://m.youtube.com/watch?v=hxBTqmTT5gE
-#EXTINF:-1 group-title="General",Star Tv Philippines tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWnO6tVDDw3hE_XKFnHOfAqT3Sak08qNP7lw&s"
+#EXTINF:-1 group-title="General", tvg-id="Star Tv Philippines", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWnO6tVDDw3hE_XKFnHOfAqT3Sak08qNP7lw&s"
 https://tv.jomarhost.xyz/d75bf447-c0ae-4964-a7e1-ad7f8b77c55e.m3u8
 
 #EXTINF:-1 group-title="General",CJB
