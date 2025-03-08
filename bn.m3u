@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1, CA Disney XD (R)
+http://206.212.244.71:8080/4wVQA7/625159/57349
 #EXTINF:-1, JTBC_Backup4 
 http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01582&q=SD&apikey=7IORE53M3M
 #EXTINF:-1, tvN_Backup4 
