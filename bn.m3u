@@ -29,6 +29,9 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:0 tvg-country="PH" tvg-logo="" group-title="", BBC News Asia Pacific (720p)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
+#EXTINF:0 tvg-country="PH" RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+
 #EXTINF:0 tvg-country="PH" tvg-logo="" group-title="General;Undefined",A2Z [Not 24/7]
 https://wag.ika.lat/stream/944313137​?checkedby:iptvcat.org
 #EXTINF:0 tvg-country="PH" tvg-logo="" group-title="News;Undefined",ANC (720p)
