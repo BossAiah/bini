@@ -17,8 +17,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747051768/ei/m
 #EXTINF:0 tvg-country="PH" tvg-logo="" group-title="", Bilyonaryo News Channel
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747051502/ei/jo8haPfXN7e94-EP94HcgQ4/ip/143.44.164.113/id/M4MdiVx1cDE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51474947/txs/51474945%2C51474946%2C51474947%2C51474948%2C51474949%2C51474950%2C51474951%2C51474952/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AecWEAYVoGgwcSwkhcl3Mpr8tiw8d754t-HYz2B9qpWga26Ma2gW43Ki1kP4mqsw9qrKlhUeHQ/spc/wk1kZh0g-RAo74mq-ZO8G-Zcd069g1wYA8s75NVKER6aEdqzuxVtCbWBm0fB5oGPPA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKCqOzNZdJQTMfBd9SeJBqBTQQBxN-6yv4UhoK9dnEI8CIQDU8HbPmwWix0Sc5f0YJHnuHghIhx5jM-OQx0vu7BUyCA%3D%3D/file/index.m3u8
 
-
-
+#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="", Bloomberg TV Asia (720p)
+https://bloomberg.com/media-manifest/streams/asia.m3u8
 
 #EXTINF:0 tvg-country="PH" tvg-logo="" group-title="", CCTN 47 (1080p) [Not 24/7]
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
