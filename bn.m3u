@@ -1,20 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 tvg-country="PH" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.m.wikimedia.org%2Fwiki%2FFile%3AKapamilya_Online_Live_logo.png&psig=AOvVaw3IAtNIduhTwQCUjoxdL-DH&ust=1747115234369000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDensqdnY0DFQAAAAAdAAAAABAE" group-title="General;Undefined",KAPAMILYA ONLINE LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747050313/ei/6YohaL2_EoL8s8IPovjh8Q4/ip/143.44.164.113/id/5hpEy42FBxY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51474947/txs/51474945%2C51474946%2C51474947%2C51474948%2C51474949%2C51474950%2C51474951%2C51474952/hfr/1/maxh/4320/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AecWEAYMfuWk3ikQLLULgm5b9hptbHwELc9oc_7rBz39o8Bs4yc0St4VMA2nOj8kTqkmxQQzew/spc/wk1kZvk7Nc4iySu5CQuLYTB55oR96bkucfPNTIwgj8RpDVIC_q2rsR5AKdihFxqtzbIvSy22koVAnbpC/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJWo_3r6FtjJMImlkpQkbC3oACHUyFmH1S_RUeYftGNjAiBELhm-JHap6a1uN6wkrxIkOQIU-VMZILDHcwjnvuCyug%3D%3D/file/index.m3u8
-
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="", NEWS 5
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747050511/ei/r4shaLrADtqU4t4PyJWRQQ/ip/143.44.164.113/id/wKPA2JDYy1I.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51474947/txs/51474945%2C51474946%2C51474947%2C51474948%2C51474949%2C51474950%2C51474951%2C51474952/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/AecWEAa0UeaZ9Wdg2cAyiNtuvSKJMCKwOKLAFKMPeU-lpQTDB8HzxufyA_CjHKR0wkGwDFY3kg/spc/wk1kZgfHJm1ml1nlWvUiL312WNVonpq9y1VdLGA8PZt5Y06WenfgZ4eF6e9f_263CToH-embY-abuSrs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPMnjDIoUsT5rWtLpRynWoX29ja1JWxNAgZesneubgztAiBP2DAqWCOJobRkjjtQ1A9Zu7E83PNgkcLNifcTgf-O2g%3D%3D/file/index.m3u8
-
-#EXTINF:0 tvg-country="PH" tvg-logo="https://en.wikipedia.org/wiki/GMA_Network#/media/File:GMA_Network_Logo_Vector.svg" group-title="", GMA
-https://manifest.googlevideo.com/api/manifest/dash/expire/1749552562/ei/UrlHaKC1I_uT4t4PqJPFiAg/ip/49.145.105.135/id/mYK_vNbUZqw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/siu/1/spc/l3OVKQRe7fxB0xFfQhKCL2qR5ige4Hs58tyM5WmTg4FPKZOi70MxoxWIcvhYvAs/vprv/1/rqh/2/pacing/0/keepalive/yes/fexp/51355912/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cas%2Csiu%2Cspc%2Cvprv%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKnf86queS_nEeh7xBdDNFpiejMMUK36MFRP6DXs7OEsAiAbeavpJ74VkQjoH6g6-S2OFDZRIfr05XgfXWLQNWPu0A%3D%3D","hlsManifestUrl":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1749552562/ei/UrlHaKC1I_uT4t4PqJPFiAg/ip/49.145.105.135/id/mYK_vNbUZqw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AY1jyLNkhVXlS1gLTk1okTPGyNTAsGWYnppPSbpEw9ULxYMKWX76EM4RzWRndXI_qMnezXj5Vw/spc/l3OVKQRd7fxB0xFfQhKCL2qR5ige4Hs58tyM5WmTg4FPKZOi70MxoxWIcvhYjAit4Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgUQzQY-PUT49BDiBLqKbcfKBicr-Te5BKWYvmRJL7iJsCIFRv8qT4kdNQAdSRfEd6lhbbKDWV152hhoY2DElqwxRP/file/index.m3u8
-
-#EXTINF:0 tvg-country="PH" tvg-logo="https://static.wikia.nocookie.net/abscbn/images/e/e2/Kapamilya_Online_Live.svg/revision/latest?cb=20250403081347" group-title="", ABS-CBN Entertainment
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1749550736/ei/MLJHaOOmK53fg8UPv-zO-Qg/ip/49.145.105.135/id/iQr7Dzwe0nM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/AY1jyLOpC5z02Eia9Yv51C0AlM7yfjcJXqsPsbOUgSrd-u5mlg8ZPkMf2Ov39gzyE3PvSatp4Q/spc/l3OVKV6Fl36wjh1TYYXVIT9Ixpa3FuTA2XFsx8f3DAcxWT-UC-Mb7aShIecjIxQusznj3B248rWjlTD7/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIEPUB1d_KaXuCVdH-Y5uu6QxFUfen5OuD4-tPGLf4DxAiEA2z9ptvxdyaWp7V-GOZy7yEU0CbEXobMW_2OuxHALu64%3D/file/index.m3u8
-
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="", Bilyonaryo News Channel
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747051502/ei/jo8haPfXN7e94-EP94HcgQ4/ip/143.44.164.113/id/M4MdiVx1cDE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51474947/txs/51474945%2C51474946%2C51474947%2C51474948%2C51474949%2C51474950%2C51474951%2C51474952/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AecWEAYVoGgwcSwkhcl3Mpr8tiw8d754t-HYz2B9qpWga26Ma2gW43Ki1kP4mqsw9qrKlhUeHQ/spc/wk1kZh0g-RAo74mq-ZO8G-Zcd069g1wYA8s75NVKER6aEdqzuxVtCbWBm0fB5oGPPA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKCqOzNZdJQTMfBd9SeJBqBTQQBxN-6yv4UhoK9dnEI8CIQDU8HbPmwWix0Sc5f0YJHnuHghIhx5jM-OQx0vu7BUyCA%3D%3D/file/index.m3u8
-
 #EXTINF:0 tvg-country="PH" tvg-logo="" group-title="", Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
@@ -27,52 +12,23 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:0 tvg-country="PH" tvg-logo="" group-title="", BBC News Asia Pacific (720p)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
-#EXTINF:0 tvg-country="PH" RTM ASEAN
+#EXTINF:0 tvg-country="PH", RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:0 tvg-country="PH" tvg-logo="" group-title="General;Undefined",A2Z [Not 24/7]
 https://wag.ika.lat/stream/944313137​?checkedby:iptvcat.org
 #EXTINF:0 tvg-country="PH" tvg-logo="" group-title="News;Undefined",ANC (720p)
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies;Undefined",AXN Southeast Asia (1080p) [Geo-blocked]
-https://wag.ika.lat/stream/2084767267?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",CCTN 47 (1080p) [Not 24/7]
-http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="PH" tvg-logo="https://i.imgur.com/IUcTFQ2.png" group-title="Undefined",CLTV 36 (1080p) [Not 24/7]
-https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="General;Undefined",CLTV 36 (720p) [Not 24/7]
-https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Movies;Undefined",Cine Mo! (720p)
-https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One (1080p)
-https://cinemaone-abscbn-ono.amagi.tv/index.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",Dreamstar TV (720p) [Not 24/7]
-https://ssh101-fl.bozztv.com/ssh101/dreamstartvnew/index.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="PH" tvg-logo="https://i.imgur.com/rWhamwh.png" group-title="News;Undefined",GTV HD (1080p) [Not 24/7]
-https://wag.ika.lat/stream/872206966?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",Great Commission TV (468p)
+
+
+#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",FEBC TV (468p)
 http://45.32.115.103/live/livestream/index.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="PH" tvg-logo="https://i.imgur.com/JGSLqA6.png" group-title="Undefined",INC TV (720p) (720p) [Geo-blocked]
-https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="PH" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Undefined",MYX Philippines (720p)
-https://myxnola-abscbn-ono.amagi.tv/index.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",PTV (720p)
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PTV.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",Teleradyo Serbisyo (720p) [Not 24/7]
-https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="PH;US" tvg-logo="" group-title="Religious;Undefined",Veritas 846 (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCAzUdEY3ZqtcC_s4ZdDKm7Q.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="AF;AU;KH;IN;JP;MN;PK;PH;SG;TH" tvg-logo="https://i.imgur.com/DTtK0z7.png" group-title="General;PAKISTAN",РТР Планета Азия
-https://player.smotrim.ru/iframe/stream/live_id/63254?checkedby:iptvcat.org
-
-
-
 
 #EXTINF:-1, CA Disney XD (R)
 http://206.212.244.71:8080/4wVQA7/625159/57349
 #EXTINF:-1, PH GMA Pinoy TV
 http://206.212.244.71:8080/4wVQA7/625159/101826
-PH GMA Life TV
+#EXTINF:-1, PH GMA Life TV
 http://206.212.244.71:8080/4wVQA7/625159/101825
 #EXTINF:-1, JTBC_Backup4 
 http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01582&q=SD&apikey=7IORE53M3M
@@ -523,3 +479,4 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="General", HILAKBOT Horror Stories
 https://www.youtube.com/@HILAKBOTHorrorStories/live
+
