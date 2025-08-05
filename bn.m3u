@@ -24,6 +24,8 @@ https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8?checkedby:iptvcat.org
 #EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",FEBC TV (468p)
 http://45.32.115.103/live/livestream/index.m3u8?checkedby:iptvcat.org
 
+#EXTINF:-1, Bein Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1, CA Disney XD (R)
 http://206.212.244.71:8080/4wVQA7/625159/57349
 #EXTINF:-1, Japanim TV (1080p)
@@ -483,5 +485,6 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="General", HILAKBOT Horror Stories
 https://www.youtube.com/@HILAKBOTHorrorStories/live
+
 
 
