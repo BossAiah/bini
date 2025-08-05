@@ -26,6 +26,10 @@ http://45.32.115.103/live/livestream/index.m3u8?checkedby:iptvcat.org
 
 #EXTINF:-1, CA Disney XD (R)
 http://206.212.244.71:8080/4wVQA7/625159/57349
+#EXTINF:-1, Japanim TV (1080p)
+https://foxkidstv.be:3369/stream/play.m3u8
+#EXTINF:-1, Kuriakos Kids (1080p)
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1, PH GMA Pinoy TV
 http://206.212.244.71:8080/4wVQA7/625159/101826
 #EXTINF:-1, PH GMA Life TV
@@ -479,4 +483,5 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="General", HILAKBOT Horror Stories
 https://www.youtube.com/@HILAKBOTHorrorStories/live
+
 
