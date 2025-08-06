@@ -6,6 +6,8 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:0 tvg-country="PH" CLTV 36 (720p) [Not 24/7]
 https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 
+#EXTINF:0 tvg-country="PH" ABS CBN ENTERTAIMENT LIVE
+"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754472271/ei/78qSaIjiOcSM29gPz7KxwQc/ip/49.148.241.64/id/BX6bFhUzzBY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/siu/1/bui/AY1jyLMvMI8PAyQKQAnqib2tDYfaqZmHMqWtE8fyijFQqHmVSlQeE9yH-QiIKwxak1lyO-11aw/spc/l3OVKbh78hsik0FErTEmKgvyXxv8eOH_k4VTsxLFofIv9okgNRdpyGowlisyOtGyRkjMnZw5PU88bywIRdY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548754/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgBABKtkphc2TB2FtpFOMAAofZaI4GKc1atL2E8eYzHr8CIAT3ZcQBwUybPHtpXA7y1oVH9LJXUk9jAZGwWL9uvRwA/file/index.m3u8",
 #EXTINF:0 tvg-country="PH" tvg-logo="" group-title="", CCTN 47 (1080p) [Not 24/7]
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 
@@ -485,6 +487,7 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="General", HILAKBOT Horror Stories
 https://www.youtube.com/@HILAKBOTHorrorStories/live
+
 
 
 
