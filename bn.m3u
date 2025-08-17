@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:0 tvg-country="PH" tvg-logo="https://static.wikia.nocookie.net/gmanetwork/images/f/f8/GMA_Network.png/revision/latest/scale-to-width-down/1000?cb=20250711165933" group-title="", GMA
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755424464/ei/cFKhaPHIB7Pe29gPgdTwMA/ip/143.44.164.6/id/DaMq1V3YTq8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AY1jyLPajW8xaRMtWH2vugIgYshhkOtdeUOdbddrNxRT0MP3HA9q5LgIJ7pM3ubpEseSkTxqYA/spc/l3OVKbMzTOVEeGnHHHmevPx9cAOuuNmLMvEKCEFIJjdilJ5xDusR96MOqZKgCqHLO__V/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755%2C51565115%2C51565681/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMnNiRxshm8SRIi7UkJFDEPhtznxfwg24X7V_8KhyzFICIQCItYHgLjHB-2rn6LiARQEHSAkpS0yYGiaTQK5Xpyq9pA%3D%3D/file/index.m3u8
+
+#EXTINF:0 tvg-country="PH" tvg-logo="https://static.wikia.nocookie.net/abscbn/images/e/e2/Kapamilya_Online_Live.svg/revision/latest?cb=20250403081347" group-title="", KAPAMILYA CHANNEL
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755424674/ei/QlOhaM-7GsSRvcAPx9yNyQ8/ip/143.44.164.6/id/GuUp3FNTOmI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/siu/1/bui/AY1jyLNtNaiCeUKo7b2pwS9idNqufywL0pXaA64kVoZQ7Zk2ZaYTd3oQ70wj0YlZ5xIhyfhSAQ/spc/l3OVKfYwKwoorsslgQqCyBaTAE5fq3M3dnMlaEqdQlLAQiW6bnWMeFTA2YFYRN_6eUvu/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755%2C51565115%2C51565681/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAP8vuCPNFcHEe_QpPngdqGIfvYh5oKTVej9p1Pu0rDhJAiEA5MAV82GrvbZ3K4OvyO6_bnqGg8gHw_zZpzYZJK6pXIc%3D/file/index.m3u8
+
 #EXTINF:0 tvg-country="PH" tvg-logo="" group-title="", Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
@@ -488,6 +494,7 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="General", HILAKBOT Horror Stories
 https://www.youtube.com/@HILAKBOTHorrorStories/live
+
 
 
 
